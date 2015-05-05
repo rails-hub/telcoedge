@@ -9,6 +9,7 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require home/style
- *= require home/header-styles
+ *= require common/fonts
+ *= require common/icons
  *= require bootstrap
  */

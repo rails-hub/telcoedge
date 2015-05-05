@@ -11,13 +11,14 @@
     = yield(:head)
 
   %body(ng-app="Telcoedge")
-    .container-fluid
-      .row.row-offcanvas.row-offcanvas-right
-        %header.header
+    #wrapper
+      #header-wrapper
+        #header.container
           = render '/layouts/header'
-    
-        #main{ :role => "main" }
-          = yield
+        #menu.container
+          = render '/layouts/menu'
+      #main{ :role => "main" }
+        = yield
 
-
-    = render "/layouts/footer"
+    #footer
+      = render "/layouts/footer"
