@@ -18,7 +18,7 @@
 //= require holder
 //= require sugar
 //= require jquery_nested_form
-//= require chosen-jquery	
+//= require chosen-jquery
 //= require moment
 //= require select2
 //= require angular

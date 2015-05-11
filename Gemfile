@@ -96,10 +96,3 @@ end
 group :doc do
   gem 'sdoc', '~> 0.4.0'
 end
-
-group :assets do
-  gem 'compass-rails'
-  gem 'compass-colors'
-  gem 'sassy-buttons'
-  # non-compass gems omitted for brevity
-end
