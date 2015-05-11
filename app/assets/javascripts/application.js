@@ -15,6 +15,7 @@
 //= require jquery-ui/sortable
 //= require bootstrap
 //= require bootstrap/tab
+//= require skypeCheck
 //= require holder
 //= require sugar
 //= require jquery_nested_form

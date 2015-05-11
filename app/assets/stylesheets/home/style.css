@@ -244,6 +244,7 @@ hr {
 		display: block;
 		padding-bottom: 2em;
 		color: rgba(0,0,0,0.7);
+        font-size: 12px;
 	}
 
 #page .column1
@@ -486,6 +487,9 @@ ul.style3 .first {
 		padding-bottom: 2em;
 		color: rgba(0,0,0,0.7);
 	}
+    .font-18 {
+      font-size: 18px !important;
+    }
 
 	.column1,
 	.column2,

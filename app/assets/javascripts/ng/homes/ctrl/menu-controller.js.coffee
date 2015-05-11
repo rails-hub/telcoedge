@@ -1,4 +1,4 @@
-angular.module('Telcoedge.controllers').controller 'HeaderCtrl', ($scope)->
+angular.module('Telcoedge.controllers').controller 'MenuCtrl', ($scope)->
 
   $scope.init = ()->
     $scope.siteName = "TelcoEdge"
