@@ -66,6 +66,8 @@ gem 'sprockets-rails', '2.1.3'
 gem 'bootstrap-switch-rails'
 gem 'indefinite_article', '~> 0.2.0'
 
+gem 'rails_12factor', :group => :production
+
 group :development do
   gem 'spring'
   gem 'letter_opener', '~> 1.2.0'
