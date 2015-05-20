@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #F8F8F8 url(/home/overlay.png) repeat;
+	background: #F8F8F8 url(/assets/home/overlay.png) repeat;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
 	font-weight: 400;
@@ -114,7 +114,7 @@ hr {
 
 #header-wrapper
 {
-	background: #970A42 url(/home/overlay.png);
+	background: #970A42 url(/assets/home/overlay.png);
 	background-size: cover;
 }
 
@@ -438,7 +438,7 @@ ul.style3 .first {
 		overflow: hidden;
 		padding: 5em 0em;
 		background: rgba(0,0,0,.02);
-		background-image: url(/home/overlay.png);
+		background-image: url(/assets/home/overlay.png);
 		background-repeat: repeat;
 		border-top: 1px solid rgba(0,0,0,.05);
 	}
