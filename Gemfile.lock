@@ -129,7 +129,7 @@ GEM
       activesupport (>= 3.0)
       request_store (~> 1.0)
     erubis (2.7.0)
-    excon (0.45.3)
+    excon (0.71.0)
     execjs (2.5.2)
     expose_query (0.0.3)
       decent_exposure (~> 2.0)
